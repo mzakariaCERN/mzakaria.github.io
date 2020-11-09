@@ -8,3 +8,4 @@ My name is Mohammed Zakaria. I am a data scientist. I will use this page to post
 
 # Good papers in Data Sciene:
 1. https://www.cs.ucr.edu/~eamonn/meaningless.pdf How clustering times series after applying a moving window filter is meaningless. Brilliant paper!
+2. https://arxiv.org/pdf/1811.12808.pdf Model Evaluation, Model Selection, and AlgorithmSelection in Machine Learning. Nice paper that covers the fundamentals.
