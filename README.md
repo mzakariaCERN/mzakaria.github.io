@@ -5,6 +5,7 @@ My name is Mohammed Zakaria. I am a data scientist. I will use this page to post
 # Influencers in Data Science:  
 1. Eamonn Keogh: Master of time series and clustering. No twitter handle. Checkout his website: https://www.cs.ucr.edu/~eamonn/ A tresure!
 2. Peyman Milanfar @docmilanfar. Nice posting about stats
+3. Sbastian Raschka: He is an excellent communicator for ML: https://github.com/rasbt
 
 # Good papers in Data Science:
 1. https://www.cs.ucr.edu/~eamonn/meaningless.pdf How clustering times series after applying a moving window filter is meaningless. Brilliant paper!
