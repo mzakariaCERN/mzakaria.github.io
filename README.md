@@ -6,7 +6,7 @@ My name is Mohammed Zakaria. I am a data scientist. I will use this page to post
 1. Eamonn Keogh: Master of time series and clustering. No twitter handle. Checkout his website: [https://www.cs.ucr.edu/~eamonn/](https://www.cs.ucr.edu/~eamonn/) a treasure!
 2. Peyman Milanfar @docmilanfar. Nice posting about stats
 4. Sbastian Raschka: He is an excellent communicator for ML: [GitHub](https://github.com/rasbt)
-5. Katiey Bower: Good resource in DS management and Leadership [website](https://katiebauer.net/)
+5. Katiey Bauer: Good resource in DS management and Leadership [website](https://katiebauer.net/)
 
 # Good papers in Data Science:
 1. https://www.cs.ucr.edu/~eamonn/meaningless.pdf How clustering times series after applying a moving window filter is meaningless. Brilliant paper!
