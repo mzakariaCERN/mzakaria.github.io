@@ -14,3 +14,6 @@ My name is Mohammed Zakaria. I am a data scientist. I will use this page to post
 
 # Interesting info in Statistics
 https://github.com/mzakariaCERN/FunWithStats.git
+
+# Data Science systems: Engineering, Project Management, Product Development, MLOps
+https://www.chaos-engineering.dev/p/your-data-science-problems-are-engineering
