@@ -17,3 +17,10 @@ https://github.com/mzakariaCERN/FunWithStats.git
 
 # Data Science systems: Engineering, Project Management, Product Development, MLOps
 https://www.chaos-engineering.dev/p/your-data-science-problems-are-engineering
+
+# Data Sources
+## 1. Aiddata
+
+Aiddata has an excellent list of geospatial datasets. It's all available as a CSV. So you don't even need to know GIS to access their data.
+
+link: http://geo.aiddata.org
