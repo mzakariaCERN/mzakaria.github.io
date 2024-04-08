@@ -24,3 +24,5 @@ https://www.chaos-engineering.dev/p/your-data-science-problems-are-engineering
 Aiddata has an excellent list of geospatial datasets. It's all available as a CSV. So you don't even need to know GIS to access their data.
 
 link: http://geo.aiddata.org
+
+More resources: https://x.com/yohaniddawela/status/1776203931036647455
