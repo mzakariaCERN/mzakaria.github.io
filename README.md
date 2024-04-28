@@ -26,3 +26,6 @@ Aiddata has an excellent list of geospatial datasets. It's all available as a CS
 link: http://geo.aiddata.org
 
 More resources: https://x.com/yohaniddawela/status/1776203931036647455
+
+# Utility Industry
+https://www.utilitydive.com/news/electricity-transmission-competition-first-refusal-rofr-ferc-cicio/713955/
