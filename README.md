@@ -29,3 +29,6 @@ More resources: https://x.com/yohaniddawela/status/1776203931036647455
 
 # Utility Industry
 https://www.utilitydive.com/news/electricity-transmission-competition-first-refusal-rofr-ferc-cicio/713955/
+
+# Data Sngineering
+https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603
