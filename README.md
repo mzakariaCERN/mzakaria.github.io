@@ -18,6 +18,9 @@ https://github.com/mzakariaCERN/FunWithStats.git
 # Data Science systems: Engineering, Project Management, Product Development, MLOps
 https://www.chaos-engineering.dev/p/your-data-science-problems-are-engineering
 
+# Data Visualization
+https://artscience.ai/the-mccandless-method-of-data-presentation/
+
 # Data Sources
 ## 1. Aiddata
 
